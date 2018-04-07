@@ -1,0 +1,5 @@
+SAB
+ab
+S=AaAb|BbBa
+A=#
+B=#
